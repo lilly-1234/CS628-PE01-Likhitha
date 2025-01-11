@@ -1,0 +1,118 @@
+{
+    "personal_information": {
+        "name": "Likhitha Lakshmi Gudivada",
+        "email": "likhithagudivada@gmail.com",
+        "phone": "(812) 671-3897",
+        "address": "403 dexter ave N, Seattle USA, 98109"
+    },
+    "objective": "Aspiring Graduate Seeking Admission to Master's Program in Computer Science with AI, Along with a Goal to Secure a Position to Utilize Acquired Knowledge and Skills in a Demanding Environment, Driving Innovation in Artificial Intelligence.",
+    "educations": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "institution": "City University of Seattle",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "gpa": "4.0/4.0"
+        },
+        {
+            "degree": "Bachelor of Technology in Computer Science",
+            "institution": "RISE Krishna Sai Prakasam Group of Institutions",
+            "start_date": "July 2018",
+            "end_date": "June 2022",
+            "gpa": "8.0/10"
+        }
+    ],
+    "skills": [
+        {
+            "category_name": "Programming Languages",
+            "skills": [
+                "C programming",
+                "Python",
+                "C++",
+                "HTML",
+                "CSS",
+                "Javascirpt",
+                "Node.js"
+            ]
+        },
+        {
+            "category_name": "Frameworks and Libraries",
+            "skills": [
+                "React",
+                "Machine Learning"
+            ]
+        },
+        {
+            "category_name": "Database Systems",
+            "skills": [
+                "SQL"
+            ]
+        },
+        {
+            "category_name": "Operating Systems",
+            "skills": [
+                "Windows",
+                "Linux"
+            ]
+        },
+        {
+            "category_name": "Version Control",
+            "skills": [
+                "Git"
+            ]
+        }
+    ],
+    "work_experience": [
+        {
+            "title": "Associate Software Engineer",
+            "company": "Capgemini Technology Services India Limited",
+            "duration": "Sep 2022 - Sep 2023",
+            "description": "As an Associate Software Engineer at Capgemini Technology Services India Limited, I designed and developed more than 20 application features by doing thorough requirements analysis. I effectively fixed over 150 errors that were reported, demonstrating my ability to solve problems and pay close attention to details. I also made thorough mind maps for more than 15 application functionalities in order to speed up the development process. In order to ensure smooth deployment and improved system functionality, I also implemented over 20 automation scripts into the CI/CD pipeline."
+        }
+    ],
+    "personal_projects": [
+        {
+            "title": "Tic-Tac-Toe Game",
+            "description": "Designed and built an interactive Tic-Tac-Toe game in Python.",
+            "source_code_link": "https://github.com/lilly-1234/TIc-Tac-Toe"
+        },
+        {
+            "title": "Sentiment Analysis for Stress Detection",
+            "description": "Developed a sentiment analysis model using machine learning and NLP methods to identify stress levels in text data."
+        },
+        {
+            "title": "POC - Time Sheet",
+            "description": "Utilized Python and pandas to design an application for time tracking and project management."
+        }
+    ],
+    "achievements": [
+        "Completed advanced training in C, Python, and networking with top scores.",
+        "Gained insights into work ethics, corporate etiquette, and interpersonal skills.",
+        "Involved in development, enhancement, and support activities, coordinating with cross-functional teams."
+    ],
+    "certificates": [
+        "Java Tutorial For Complete Beginners - Udemy",
+        "C for Everyone: Structured Programming - Coursera",
+        "The Complete Oracle SQL Bootcamp - Udemy",
+        "Advanced training on Python - Coursera",
+        "Machine Learning A: Hands-On Python - Udemy"
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "Full Professional Proficiency"
+        },
+        {
+            "language": "Telugu",
+            "proficiency": "Full Professional Proficiency"
+        }
+    ],
+    "soft_skills": [
+        "Creativity",
+        "Communication Skills",
+        "Leadership",
+        "Multi-Tasking",
+        "Problem Solving",
+        "Time Management"
+    ]
+}
